@@ -25,9 +25,9 @@ about_title: Who is Mattia?
 about_content: | # this will include new lines to allow paragraphs
   Hello and welcome to my online resume! I am Mattia, a data analytics expert with extensive practical industrial experience, ranging from a healthcare start-up to major investment banks. As a trained mathematician, I believe that to succeed in this domain one needs to have sound theoretical and practical knowledge of statistics and machine learning for big data and “small data”.
 
-  I am a fast thinker, quick learner and committed team player. I presented my results in front of highly technical audiences as well as in front of top managers. I am a native Italian speaker and fluent in English and German. Currently I am trying to broaden my linguistical horizons by learning Mandarin :) 
+  I am a fast thinker, quick learner and committed team player. I presented my results in front of highly technical audiences as well as in front of senior management. I am a native Italian speaker and fluent in English and German. Currently I am trying to broaden my linguistical horizons by learning Mandarin :) 
 
-  I am most skilled in: <mark>statistics</mark>, <mark>machine learning</mark>, <mark>R</mark>, <mark>Python</mark>, <mark>SQL</mark> and <mark>Spark</mark>
+  My specialties are: <mark>statistics</mark>, <mark>machine learning</mark>, <mark>R</mark>, <mark>Python</mark>, <mark>SQL</mark> and <mark>Spark</mark>
 
 
 
@@ -35,19 +35,20 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Professional experience
+Credit Suisse - Compliance Data Scientist
 
 # Education Section
 # educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
