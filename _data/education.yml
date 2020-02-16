@@ -15,4 +15,4 @@
   quote: >
     Grade: 110 cum laude/110
   description: | # this will include new lines to allow paragraphs
-    In collaboration with the spin-off Isomorph, in my bachelor’s thesis I took ownership of the implementation of an advanced algorithm in Matlab whose goal is to measure lengths of objects based on two photographs. I used Matlab, the specialized real-time computer-vision library OpenCV and techniques coming from computational geometry
+    * In collaboration with the spin-off Isomorph, in my bachelor’s thesis I took ownership of the implementation of an advanced algorithm in Matlab whose goal is to measure lengths of objects based on two photographs. I used Matlab, the specialized real-time computer-vision library OpenCV and techniques coming from computational geometry
