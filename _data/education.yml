@@ -3,6 +3,16 @@
   dates: April 2010 - July 2012
   qualification: M.Sc. in applied mathematics
   quote: >
-    Focus on computational mathematics and quantitative techniques (Monte Carlo methods, time series, GLMs, models for longitudinal and cross-sectional data, etc.)
+    Grade: 110 cum laude/110
   description: | # this will include new lines to allow paragraphs
-    Master thesis: “Statistical models for sectional and panel data”. I thoroughly explored numerous types of linear models and compared them empirically through extensive Monte Carlo simulations, focusing on their assumptions and limitations
+    * Focus on computational mathematics and quantitative techniques (Monte Carlo methods, time series, GLMs, models for longitudinal and cross-sectional data, etc.)
+    * Master thesis: “Statistical models for sectional and panel data”. I thoroughly explored numerous types of linear models and compared them empirically through extensive Monte Carlo simulations, focusing on their assumptions and limitations
+
+- layout: top-middle
+  name: University of Udine, Italy
+  dates: September 2006 - March 2010
+  qualification: B.Sc. in applied mathematics
+  quote: >
+    Grade: 110 cum laude/110
+  description: | # this will include new lines to allow paragraphs
+    In collaboration with the spin-off Isomorph, in my bachelor’s thesis I took ownership of the implementation of an advanced algorithm in Matlab whose goal is to measure lengths of objects based on two photographs. I used Matlab, the specialized real-time computer-vision library OpenCV and techniques coming from computational geometry
