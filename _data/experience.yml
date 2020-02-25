@@ -14,7 +14,7 @@
     **Technology stack:** Palantir big data platform, Python, Pyspark, SQL, Tableau, git
     
     **Responsıbılıtıes:**
-    * Main projects: _trader risk scoring model, reporting and predicting KPIs on employee performance_
+    * Main projects: _in-house trader risk scoring model; reporting and predicting KPIs on client onboarding operational risk_
     * End-to-end development of Spark big data analytics pipelines for interactive Tableau dashboards 
     * Prototyping, implementation and production deployment of predictive models using state-of-the-art big data technologies, starting from the definition of the data sourcing requirements up to the user interface
     * Mentoring colleagues and stakeholders on the choice of the right data science tool
@@ -48,6 +48,8 @@
   link: Zurich, Switzerland
   dates: January 2013 - December 2016
   description: |
+    **Technology stack:** R, Matlab, git
+    
     **Responsıbılıtıes**
     * Development and implementation of novel statistical models for large spatial datasets 
     * Responsible for organizing exercise sessions for statistics and probability classes (among many, Bayesian statistics and applied likelihood inference) and for organizing coaching sessions for colleagues and professors
