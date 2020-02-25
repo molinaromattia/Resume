@@ -1,31 +1,22 @@
 # Site
 repository: sproogen/resume-theme
-# favicon: images/favicon.ico
 
 # Personal info
 name: Mattia Molinaro
-title: Data Scientist | Statistician
+title: Data Scientist | Statistician | Mathematician
 email: mattia.molinaro ■ gmail.com
 
 # Social links
-# twitter_username: facespics
 github_username:  molinaromattia
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
 linkedin_username: mattia-molinaro-a3816870
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
 about_title: Who is Mattia?
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello and welcome to my online resume! I am Mattia, a data analytics expert with broad practical industrial experience ranging from a healthcare start-up to major investment banks. As a trained mathematician, I wholeheartedly believe that to excel in this domain one needs to have sound theoretical and practical knowledge of statistics and machine learning for big data and “small data”. 
+  Hello and welcome to my online resume! I am Mattia, a data analytics expert with broad practical industrial experience ranging from a healthcare start-up to major investment banks. As a trained mathematician, I wholeheartedly believe that to excel in this domain one needs to have sound theoretical and practical knowledge of statistics and machine learning for big data and “small data” - the latter being not so mainstream these days, yet of extreme importance in many contexts. 
   
-  Besides this, the "customer" is at the core of each and every data analytics project, and the impact on their business is the main driving factor in my daily tasks. After slicing and dicing the data with the latest technologies, I wear my suit and eagerly present my results and findings to my colleagues up to senior management. I am a native Italian speaker and fluent in English and German. Currently I am trying to broaden my linguistical horizons by learning Mandarin :) 
+  The "customer" is at the core of each and every data analytics project I work on, and the impact on their business is the main driving factor in my daily tasks. After slicing and dicing that data with the latest technologies, I eagerly present my results and insights to peers as well as to senior management. I am a native Italian speaker and fluent in English and German. Currently I am trying to broaden my linguistical horizons by learning Mandarin :) 
 
   My specialties are: <mark>statistics</mark>, <mark>machine learning</mark>, <mark>R</mark>, <mark>Python</mark>, <mark>SQL</mark> and <mark>Spark</mark>
 
