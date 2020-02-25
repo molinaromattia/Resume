@@ -32,9 +32,9 @@ experience_title: Professional experience
 # educaton_title: Education
 
 # More Section
-# more_title: Computer skills and data libraries
-# more_content: | # this will include new lines to allow paragraphs
-# * R
+more_title: Computer skills and data libraries
+more_content: | # this will include new lines to allow paragraphs
+  RFDFfds
 
 # Footer
 footer_show_references: true
