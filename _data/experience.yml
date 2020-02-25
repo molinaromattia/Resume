@@ -10,10 +10,13 @@
   link: Zurich, Switzerland
   dates: May 2017 - December 2019
   description: |
+    
+    **Technology stack**
+    * Python, Pyspark, SQL, Tableau
     **Responsıbılıtıes**
-    * Main projects: in-house trader surveillance model, monitoring and predicting KPIs on employee performance
+    * Main projects: _in-house trader surveillance model, monitoring and predicting KPIs on employee performance_
     * End-to-end development of Spark big data analytics pipelines for interactive Tableau dashboards 
-    * Prototyping, implementation and production deployment of predictive models using state-of-the-art big data technologies
+    * Prototyping, implementation and production deployment of predictive models using state-of-the-art big data technologies, from the definition of the data sourcing requirements to the user interface
     * Mentoring colleagues and stakeholders on the choice of the right data science tool
     
     **Achievements**
