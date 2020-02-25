@@ -11,16 +11,15 @@
   dates: May 2017 - December 2019
   description: |
     
-    **Technology stack**
-    * Python, Pyspark, SQL, Tableau
+    **Technology stack:** Python, Pyspark, SQL, Tableau, git
     
-    **Responsıbılıtıes**
+    **Responsıbılıtıes:**
     * Main projects: _in-house trader surveillance model, monitoring and predicting KPIs on employee performance_
     * End-to-end development of Spark big data analytics pipelines for interactive Tableau dashboards 
     * Prototyping, implementation and production deployment of predictive models using state-of-the-art big data technologies, from the definition of the data sourcing requirements to the user interface
     * Mentoring colleagues and stakeholders on the choice of the right data science tool
     
-    **Achievements**
+    **Achievements:**
     * Enabled the bank to meet a crucial regulatory commitment with an US regulator and therefore to **avoid a substantial regulatory fine**
     * Revamped the way that top management mitigates operational risk in client onboarding (up to **10-fold decrease in 
     the onboarding formalities errors**)
@@ -33,12 +32,14 @@
   link: Zurich, Switzerland
   dates: June 2016 - April 2017
   description: |
-    **Responsıbılıtıes**
+    **Technology stack:** R, MongoDB
+    
+    **Responsıbılıtıes:**
     * Analysis of data coming from a smartphone application measuring lung parameters in patients with respiratory diseases 
     * Visualization and presentation of complex results to technical as well as to non-technical audiences
     
-    **Achievements**
-    * Enabled the founder of the company to strategically prepare according to the analytics insights provided to them, which led to maximisation of business market impact (for instance, the number of Italian doctors recurrently using the startup’s device rose from 50 to 1200+ in 6 months)
+    **Achievements:**
+    * Enabled the founder of the company to strategically prepare according to the analytics insights provided to them, which led to maximisation of business market impact (for instance, **the number of Italian doctors recurrently using the startup’s device rose from 50 to 1200+ in 6 months**)
     * Conceived, designed and implemented performance indicators and their visualization
 
 - layout: top-middle
