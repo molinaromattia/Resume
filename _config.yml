@@ -34,7 +34,7 @@ experience_title: Professional experience
 # More Section
 more_title: Computer skills and data libraries
 more_content: | # this will include new lines to allow paragraphs
-  RFDFfds
+  * **Languages:** R (advanced) – SQL (advanced, projects in PostgreSQL, SparkSQL and MySQL) – Python (data libraries, intermediate) – Matlab (intermediate) 
 
 # Footer
 footer_show_references: true
