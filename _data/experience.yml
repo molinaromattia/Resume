@@ -11,7 +11,7 @@
   dates: May 2017 - December 2019
   description: |
     
-    **Technology stack:** Palantir big data platform, Python, Pyspark, SQL, Tableau, git
+    **Technology stack:** `Palantir big data platform`, `Python`, `PySpark`, `SQL`, `Tableau`, `git`
     
     **Responsıbılıtıes:**
     * Main projects: _in-house trader risk scoring model; reporting and predicting KPIs on client onboarding operational risk_
@@ -32,7 +32,7 @@
   link: Zurich, Switzerland
   dates: June 2016 - April 2017
   description: |
-    **Technology stack:** R, MongoDB
+    **Technology stack:** `R`, `MongoDB`
     
     **Responsıbılıtıes:**
     * Analysis of data coming from a smartphone application measuring lung parameters in patients with respiratory diseases 
@@ -48,7 +48,7 @@
   link: Zurich, Switzerland
   dates: January 2013 - December 2016
   description: |
-    **Technology stack:** R, Matlab, git
+    **Technology stack:** `R`, `Matlab`, `git`
     
     **Responsıbılıtıes**
     * Development and implementation of novel statistical models for large spatial datasets 
