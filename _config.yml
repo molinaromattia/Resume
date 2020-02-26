@@ -35,9 +35,9 @@ experience_title: Professional experience
 more_title: Computer skills and data libraries
 more_content: | # this will include new lines to allow paragraphs
   * **Languages:** R (advanced) – SQL (advanced, projects in PostgreSQL, SparkSQL and MySQL) – Python (data libraries, intermediate) – Matlab (intermediate) 
-  * **R libraries:** among many,`ggplot2` ggplot2, dplyr (data preprocessing and visualization), caret (machine learning) and h2o (feed forward networks models and machine learning workflow automation)
-  * **Python libraries:**: numpy, pandas (numerical simulation and data preprocessing), seaborn
-  (data visualization), statsmodels, scikit-learn (statistics and machine learning), PySpark (Python API for Spark)
+  * **R libraries:** among many,`ggplot2`, `dplyr` (data preprocessing and visualization), `caret` (machine learning), `h2o` (feed forward networks models and machine learning workflow automation), `knitr` (dynamic report generation)
+  * **Python libraries:**: `numpy`, `pandas` (numerical simulation and data preprocessing), `seaborn`
+  (data visualization), `statsmodels`, `scikit-learn` (statistics and machine learning), `PySpark` (Python API for Spark)
 
 # Footer
 footer_show_references: true
