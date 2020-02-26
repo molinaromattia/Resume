@@ -51,3 +51,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-redirect-from  # Allow multiple names for a page
